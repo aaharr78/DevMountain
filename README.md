@@ -1,1 +1,1 @@
-# DevMountain
+# DevMountain-miniproject
